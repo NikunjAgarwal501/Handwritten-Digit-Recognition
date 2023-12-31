@@ -1,4 +1,4 @@
-It is a GUI based Handwritten digit recognition system. MNIST dataset is used to train and test the model. 
+It is a GUI based Handwritten digit recognition system using CNN model. MNIST dataset is used to train and test the model. 
 Some of the important terms used are-
 The Sequential class allows you to create models layer by layer in a step-by-step fashion, where each layer flows sequentially from the previous one.
 
